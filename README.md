@@ -1,6 +1,6 @@
 # Market Risk Analysis – CAC40, S&P500 & EUR/USD
 
-## Executive Summary
+## Summary
 
 This project analyzes the market risk of three major financial assets:
 - CAC 40 
