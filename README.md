@@ -81,5 +81,3 @@ VaR_95% = Quantile(5%)
 
 
 
-## 🚀 Project Structure
-
